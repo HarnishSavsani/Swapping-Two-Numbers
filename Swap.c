@@ -13,6 +13,7 @@ int main()
     system("color fa");
     printf("After swap:\n");
     printf("A= %d and B= %d\n",a,b);
+    return 0;
 }
 void swap(int *x, int *y)
 {
